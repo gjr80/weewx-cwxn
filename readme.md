@@ -17,11 +17,11 @@ Installation instructions:
 
     -   for setup.py installs:
     
-            $ /home/weewx/bin/wee_extension install=/var/tmp/cwxn-0.6.tar.gz
+            $ /home/weewx/bin/wee_extension --install=/var/tmp/cwxn-0.6.tar.gz
 
     -   for package installs:
 
-            $ wee_extension install=/var/tmp/cwxn-0.6.tgz
+            $ wee_extension --install=/var/tmp/cwxn-0.6.tgz
 
 3.  Restart WeeWX:
 
