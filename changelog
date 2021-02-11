@@ -1,0 +1,19 @@
+0.6 11 February 2021
+* updated for WeeWX v4 under python2 or python3
+
+0.5 26 February 2020
+* fields rain24 and dayRain are now derived from the database is not present
+  in the packet/record
+
+0.4 1 January 2015
+* added binding option for loop or archive
+
+0.3 8 December 2014
+* do not use with construction for managers
+
+0.2 6 December 2014
+* fixed VERSION tag
+* update for weewx v3
+
+0.1 14 August 2014
+* initial release
